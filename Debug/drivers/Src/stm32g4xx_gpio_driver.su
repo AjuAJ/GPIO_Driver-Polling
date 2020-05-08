@@ -1,0 +1,7 @@
+stm32g4xx_gpio_driver.c:9:6:GPIO_PeriClkCtrl	16	static
+stm32g4xx_gpio_driver.c:77:6:GPIO_Init	24	static
+stm32g4xx_gpio_driver.c:128:6:GPIO_Deinit	16	static
+stm32g4xx_gpio_driver.c:162:9:GPIO_ReadPIN	24	static
+stm32g4xx_gpio_driver.c:171:10:GPIO_ReadPort	24	static
+stm32g4xx_gpio_driver.c:180:6:GPIO_WritePIN	16	static
+stm32g4xx_gpio_driver.c:193:6:GPIO_WritePort	16	static
